@@ -21,7 +21,7 @@ final_assignment_dag <- dagify(
     promoter = "Promoter",
     generation = "Generation",
     transgenic_line = "Transgenic Line",
-    U = "Cas9 Activity"
+    cas9_activity = "Cas9 Activity"
   )
 )
 
